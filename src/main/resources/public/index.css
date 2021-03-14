@@ -1,0 +1,25 @@
+#messageBox {
+    max-height: 400px;
+    min-height: 400px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    overflow: scroll;
+    -webkit-overflow-scrolling: touch;
+    overflow-x: hidden;
+}
+
+#userListBox .list-group {
+    max-height: 400px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    overflow: scroll;
+    -webkit-overflow-scrolling: touch;
+    overflow-x: hidden;
+}
+
+.timeStamp {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+}
+
